@@ -1,1 +1,0 @@
-HealthTrack utiliza la pila de fuentes del sistema de forma predeterminada para mantener un rendimiento instantáneo sin descargas externas. Si deseas incluir tipografías locales en formato .woff2, colócalas en esta carpeta y añade las reglas @font-face correspondientes en css/styles.css.
