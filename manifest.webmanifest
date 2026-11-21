@@ -1,0 +1,20 @@
+{
+  "name": "HealthTrack – Monitorización de salud",
+  "short_name": "HealthTrack",
+  "description": "PWA personal offline-first para registrar presión arterial, frecuencia cardíaca, peso y factores asociados.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "lang": "es-ES",
+  "background_color": "#f4f7fa",
+  "theme_color": "#0f5c8d",
+  "icons": [
+    {
+      "src": "./assets/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
