@@ -1,2 +1,0 @@
-Chart.js versión fijada: 4.4.7 (bundle UMD local: ./chart.umd.min.js).
-No se realizan peticiones a CDNs ni servidores externos. Para incluir el archivo local en el repositorio, descarga la distribución oficial de Chart.js v4.4.7 (chart.umd.min.js) y colócala en esta misma ruta antes de publicar o ejecutar en modo desconectado.
